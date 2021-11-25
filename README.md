@@ -125,7 +125,7 @@
    - Header(Autorization): Access Token
    - URL Parameters: option_id
 - **Ответ на вопрос**
-   - Path: [http://localhost:8000/api/answer/post]](http://localhost:8000/api/answer/post)
+   - Path: [http://localhost:8000/api/answer/post](http://localhost:8000/api/answer/post)
    - Method: POST
    - Header(Autorization): Access Token
    - Body
