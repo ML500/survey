@@ -55,7 +55,7 @@
    - Header(Autorization): Access Token
    - URL Parameters: survey_id
 - **Создание опроса**
-   - Path: [http://localhost:8000/api/survey/post]](http://localhost:8000/api/survey/post)
+   - Path: [http://localhost:8000/api/survey/post](http://localhost:8000/api/survey/post)
    - Method: POST
    - Header(Autorization): Access Token
    - Body
@@ -83,7 +83,7 @@
    - Method: GET
    - Header(Autorization): Access Token
 - **Создание вопроса**
-   - Path: [http://localhost:8000/api/question/post]](http://localhost:8000/api/question/post)
+   - Path: [http://localhost:8000/api/question/post](http://localhost:8000/api/question/post)
    - Method: POST
    - Header(Autorization): Access Token
    - Body
@@ -105,7 +105,7 @@
    - Header(Autorization): Access Token
    - URL Parameters: question_id
 - **Создание варианта вопроса**
-   - Path: [http://localhost:8000/api/option/post]](http://localhost:8000/api/option/post)
+   - Path: [http://localhost:8000/api/option/post](http://localhost:8000/api/option/post)
    - Method: POST
    - Header(Autorization): Access Token
    - Body
